@@ -1,0 +1,74 @@
+body{
+	background-color: black;
+}
+header{
+	background-color: tomato;
+}
+.one {
+	display:inline-block;
+	margin:50px; 
+	padding:50px;
+	height:300px;
+	width:960px;
+	}
+.momzombie{
+	display:inline-block;
+	opacity:1.0;
+	margin:20px;
+	padding:20px;
+	width:300px;
+	height:300px;
+
+	}
+.derbyface{
+	display:inline-block;
+	opacity:1.0;
+	margin:20px;
+	padding:20px;
+	width:300px;
+	height:300px;
+    }
+.three section {
+	margin: 25px;
+	padding: 20px;
+	position: bottom;
+	background-color: grey;
+	font-family: Helvetica;
+	overflow: hidden;
+
+	}
+.three img{
+	padding:0;
+	margin:0;
+	height:2px;
+	width:200px;
+	background-color: grey;
+	overflow: hidden;
+	}
+.programimg {
+	display: inline-block;
+}	
+.nextpg1{
+	margin:50px;
+	padding:50px;
+	height:100px;
+	width:960px;
+	background-color: gray;
+	font-size: 30px;
+	font-family: Helvetica;
+	font-style: oblique;
+	display: inline-block;
+
+}
+.nextpg2{
+	margin:50px;
+	padding:50px;
+	height:500px;
+	width: 960px;
+	background-color: gray;
+	display:inline-block;
+}
+
+	
+
+}
